@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="158" height="158" src="https://github.com/UniverseFW/universe_assets/blob/main/Logo/3.LOGO%20PNG%20%5B512x512%20%5D.png">
+  <img width="6913" height="2208" src="https://github.com/UniverseFW/universe_assets/blob/main/banner/universe_cover.png">
 </p>
 
 ## Project Universe
